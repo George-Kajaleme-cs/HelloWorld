@@ -1,1 +1,1 @@
-# HelloWorld Hi I am George a person who will be showing you my code today
+# HelloWorld as I wait to start to learn coding
